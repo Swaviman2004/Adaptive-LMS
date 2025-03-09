@@ -1,4 +1,4 @@
 # Adaptive-LMS
 ZOCC Project
 <br>
-Author - Swaviman Patra
+Author - Swaviman
